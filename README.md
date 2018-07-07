@@ -1,4 +1,4 @@
-# proj-fund-xfinney
+# xfinney.eth
 project funding
 
 see:
